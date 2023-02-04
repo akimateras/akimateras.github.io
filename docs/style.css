@@ -1,0 +1,16 @@
+body {
+  margin: 3rem; 
+}
+
+h1 {
+  color: #303030;
+}
+
+li {
+  color: #505050;
+}
+
+a {
+  color: #3030ff;
+  text-decoration: none;
+}
